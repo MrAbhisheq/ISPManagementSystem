@@ -1,2 +1,2 @@
 
-IDE : Apache Netbeans          Language: Java       Database: MySQL
+IDE : Apache Netbeans,          Language: Java,       Database: MySQL
