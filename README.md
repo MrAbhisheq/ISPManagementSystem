@@ -26,6 +26,48 @@ This repository contains the source code for the application and expects a **MyS
 * 💰 Billing and invoice tracking
 * 📊 Basic reporting and search functionality
 
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](Screenshots/HomePage.png)
+
+### 🔐 Admin Login
+
+![Admin Login](Screenshots/AdminLogin.png)
+
+### 🛡️ Admin Dashboard
+
+![Admin Dashboard](Screenshots/AdminDashboard.png)
+
+### 👨‍💼 Employee Login
+
+![Employee Login](Screenshots/EmployeeLogin.png)
+
+### 💼 Employee Dashboard
+
+![Employee Dashboard](Screenshots/EmployeeDashboard.png)
+![Employee Add](Screenshots/EmployeeAdd.png)
+
+### 👥 Customer Management
+
+![Customer Management](Screenshots/CustomerManagement.png)
+![Customer Add](Screenshots/CustomerAdd.png)
+
+### 📦 Plan Management
+
+![Plan Management](Screenshots/PlanManagement.png)
+
+### 👥 Employees Management
+
+![Employees Management](Screenshots/EmployeesManagement.png)
+
+### ❓ Support Tickets
+
+![Support Tickets](Screenshots/SupportTickets.png)
+
+
 ## 📋 Prerequisites
 
 Before running the application, make sure you have:
